@@ -81,7 +81,7 @@ header {
   width: 100%;
   background-position: center;
   background-size: cover;
-  background-image: url("assets/final-project-defense-i.JPG");
+  background-image: url("assets/animation/animation01.png");
   background-position-x: 38%;
 
   animation: image-swipes cubic-bezier(1, 0, 0, 1) 30s 3s infinite;
@@ -90,27 +90,27 @@ header {
 /* LANDING PAGE BACKGROUND IMAGE ANIMATION */
 @keyframes image-swipes {
   0% {
-    background-image: url("assets/final-project-defense-i.JPG");
+    background-image: url("assets/animation/animation01.png");
   }
+
   20% {
-    background-image: url("assets/before-industrial-training.jpg"); /* 
-    background-position-x: 0%; */
+    background-image: url("assets/animation/animation02.png");
   }
 
   40% {
-    background-image: url("assets/final-exams.jpg");
+    background-image: url("assets/animation/animation03.png");
   }
 
   60% {
-    background-image: url("assets/it-defense-i.jpg");
+    background-image: url("assets/animation/animation04.png");
   }
 
   80% {
-    background-image: url("assets/first-final-defense-i.jpg");
+    background-image: url("assets/animation/animation05.png");
   }
 
   100% {
-    background-image: url("assets/final-project-defense-i.JPG");
+    background-image: url("assets/animation/animation01.png");
   }
 }
 
