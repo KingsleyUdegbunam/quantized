@@ -89,7 +89,7 @@ header {
   background-size: cover;
   background-image: url("https://ik.imagekit.io/kay/animation01.png?updatedAt=1743623279454");
   /*  background-image: url("assets/animation/animation01-transformed.png"); */
-  background-position-x: 38%;
+  /*  background-position-x: 38%; */
 
   animation: image-swipes cubic-bezier(1, 0, 0, 1) 30s 3s infinite;
   -webkit-animation: image-swipes cubic-bezier(1, 0, 0, 1) 30s 3s infinite;
