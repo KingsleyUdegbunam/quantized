@@ -87,7 +87,8 @@ header {
   width: 100%;
   background-position: center;
   background-size: cover;
-  background-image: url("assets/animation/animation01-transformed.png");
+  background-image: url("https://ik.imagekit.io/kay/animation01.png?updatedAt=1743623279454");
+  /*  background-image: url("assets/animation/animation01-transformed.png"); */
   background-position-x: 38%;
 
   animation: image-swipes cubic-bezier(1, 0, 0, 1) 30s 3s infinite;
@@ -97,23 +98,28 @@ header {
 /* LANDING PAGE BACKGROUND IMAGE ANIMATION */
 @keyframes image-swipes {
   20% {
-    background-image: url("assets/animation/animation02-transformed.png");
+    background-image: url("https://ik.imagekit.io/kay/animation02.png?updatedAt=1743623279730");
+    /* background-image: url("assets/animation/animation02-transformed.png"); */
   }
 
   40% {
-    background-image: url("assets/animation/animation03-transformed.png");
+    background-image: url("https://ik.imagekit.io/kay/animation03.png?updatedAt=1743623279503");
+    /* background-image: url("assets/animation/animation03-transformed.png"); */
   }
 
   60% {
-    background-image: url("assets/animation/animation04-transformed.png");
+    background-image: url("https://ik.imagekit.io/kay/animation04.png?updatedAt=1743623279616");
+    /* background-image: url("assets/animation/animation04-transformed.png"); */
   }
 
   80% {
     background-image: url("assets/animation/animation05-transformed.png");
+    background-image: url("https://ik.imagekit.io/kay/animation05.png?updatedAt=1743623279682");
   }
 
   100% {
-    background-image: url("assets/animation/animation01-transformed.png");
+    background-image: url("https://ik.imagekit.io/kay/animation01.png?updatedAt=1743623279454");
+    /* background-image: url("assets/animation/animation01-transformed.png"); */
   }
 }
 
@@ -265,7 +271,7 @@ header {
   display: flex;
   place-content: center;
   flex-wrap: wrap;
-  gap: 0.4rem;
+  gap: 1rem;
 }
 
 .image-item {
@@ -295,7 +301,7 @@ header {
   overflow: hidden;
   flex-shrink: 1;
   /* max-width: 20rem; */
-  width: 30%;
+  width: 25%;
   aspect-ratio: 1;
 }
 
