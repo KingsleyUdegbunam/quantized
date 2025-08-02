@@ -16,7 +16,7 @@ The project taught me the following:
 * Expanded my knowledge on Git and GitHub.
 
 I wrote an article about this project on Dev.to. You can read it <a href="https://dev.to/kay_dev/i-built-and-deployed-my-first-project-as-a-front-end-developer-37o9" target='_blank'>here</a>.
-
+[hererrr]([http://example.com/](https://dev.to/kay_dev/i-built-and-deployed-my-first-project-as-a-front-end-developer-37o9){target="_blank"}
 I also posted a video of the project on youtube. <br>
 <a href='https://www.youtube.com/watch?v=3_XADGD57ik' target='_blank'>
 <img width='540' height='480' src="https://i9.ytimg.com/vi_webp/3_XADGD57ik/mqdefault.webp?v=67fa5a60&sqp=CITzuMQG&rs=AOn4CLCL1XzqbGZdCvAy3sa3W2hDNEdkkQ">
