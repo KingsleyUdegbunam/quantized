@@ -1,6 +1,6 @@
 #QUANTIZED
 ...
-## A fuly functional photogallery project created using HTML, CSS, and Lightbox2 JS Library.
+## A Fully Functional Photo-gallery Project Created using HTML, CSS, and JS Library.
 
 This is a photo gallery project that was birthed from my desire to put my HTML and CSS knowledge to the text but ended up requiring knowledge that was beeyond my skill set.
 
@@ -10,7 +10,7 @@ The project taught me the following:
 
 * How to better use flexbox.
 * Expanded my knowlege on the background CSS property
-* How to utilize JS Libraries
+* How to utilize JS Libraries - Lightbox2.
 * Image optimization
 * Flexibility in project building
 
