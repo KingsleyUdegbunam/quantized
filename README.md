@@ -1,4 +1,4 @@
-#QUANTIZED
+# QUANTIZED
 ...
 ## A Fully Functional Photo-gallery Project Created using HTML, CSS, and JS Library.
 
