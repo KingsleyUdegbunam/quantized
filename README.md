@@ -1,5 +1,4 @@
 # QUANTIZED
-...
 ## A Fully Functional Photo-gallery Project Created using HTML, CSS, and JS Library.
 
 This is a photo gallery project that was birthed from my desire to put my HTML and CSS knowledge to the text but ended up requiring knowledge that was beeyond my skill set.
