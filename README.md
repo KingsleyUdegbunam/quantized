@@ -1,26 +1,25 @@
 # QUANTIZED
-## A Fully Functional Photo-gallery Project Created using HTML, CSS, and JS Library.
+A single-page photo gallery built with HTML, CSS, and the Lightbox2 JavaScript library.
 
-This is a photo gallery project that was birthed from my desire to put my HTML and CSS knowledge to the text but ended up requiring knowledge that was beeyond my skill set.
+This project started as a way to test my HTML and CSS skills but quickly evolved into something bigger. It became a personal project to document and share memories from my undergraduate days at FUTO — photos taken by me and my peers during our time there.
 
-This project was initially embarked on to put my HTML and CSS skills to the test by ended up leading me to explore the land of JavaScript Libraries. 
-It is a persoanl project I embarked on to help create a way to share a gallery made up of images that were created by myslef, and my peers during our undergraduate days.
-The project taught me the following:
+Building it pushed me beyond my comfort zone and introduced me to JavaScript libraries for the first time.
 
-* How to better use flexbox.
-* Expanded my knowlege on the background CSS property
-* How to utilize JS Libraries - Lightbox2.
-* Image optimization
-* Flexibility in project building
-* Project deployment
-* Expanded my knowledge on Git and GitHub.
+## What I Learned
+- Deeper understanding of Flexbox for layout
+- Advanced usage of the CSS background - property
+- How to integrate and use JS libraries — specifically Lightbox2
+- Image optimisation techniques
+- Project deployment with Netlify
+- Strengthened Git and GitHub workflow
 
-I wrote an article about this project on Dev.to. You can read it <a href="https://dev.to/kay_dev/i-built-and-deployed-my-first-project-as-a-front-end-developer-37o9" target='_blank'>here</a>.
+## Resources
+- 📝  [Read the article on Dev.to](https://dev.to/kay_dev/i-built-and-deployed-my-first-project-as-a-front-end-developer-37o9)
+- 🌐 [Live Demo](https://quantized23.netlify.app/)
 
-I also posted a video of the project on youtube. <br>
-<a href='https://www.youtube.com/watch?v=3_XADGD57ik' target='_blank'>
-<img width='540' height='480' src="[https://i9.ytimg.com/vi_webp/3_XADGD57ik/mqdefault.webp?v=67fa5a60&sqp=CNjU0sQG&rs=AOn4CLBh4utMY2pTnvWniAlUh4vnHkXzvw](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2fxu1quh1nhl8y28fyyy.png)">
-</a>
+## Preview
+[![Quantized](./assets/Screen%20grab.png)](https://www.youtube.com/watch?v=3_XADGD57ik)
+ <br>
 
-This project is also deployed on <a href='https://splendid-frangipane-1dc1f4.netlify.app/' target='_blank'>Netlify</a>
+
   
